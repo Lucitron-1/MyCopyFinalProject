@@ -1,0 +1,7 @@
+echo "# MyCopyFinalProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lucitron-1/MyCopyFinalProject.git
+git push -u origin main
